@@ -1,0 +1,30 @@
+{
+  "name": "react-native-simple-calc",
+  "version": "1.0.0",
+  "description": "It gives you the simple calculation functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenmobdev/simpleCalc.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react-native",
+    "calc",
+    "react-native-simple-calc"
+  ],
+  "author": "Praveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveenmobdev/simpleCalc/issues"
+  },
+  "homepage": "https://github.com/praveenmobdev/simpleCalc#readme"
+}
